@@ -1,5 +1,10 @@
 # vue_app
 
+## Main page 
+
+<img src="pic/vue.png" alt="config" width="500"/>
+
+
 ## Project setup
 ```
 npm install
